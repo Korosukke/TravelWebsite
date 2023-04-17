@@ -13,8 +13,8 @@ function Home(){
             cName="hero"
             heroImg={HomeImg}
             title="Journey to the Heart of the Himalayas"
-            text="Choose Your Favourite Destination."
-            buttonText="Travel Plan"
+            text="Dive in to Beauty with Us"
+            buttonText="Explore Now"
             url="/"
             btnClass="show"
         />
