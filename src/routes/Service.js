@@ -13,11 +13,10 @@ function Service(){
         <Hero
             cName="hero-mid"
             heroImg={AboutImg}
-            title="Service"
+            title="Explore"
             btnClass="hide"
         />
         <Offer/>
-        <Trip/>
         <Footer/>
         </>
     )

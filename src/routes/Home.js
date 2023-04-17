@@ -15,7 +15,7 @@ function Home(){
             title="Journey to the Heart of the Himalayas"
             text="Dive in to Beauty with Us"
             buttonText="Explore Now"
-            url="/"
+            url="./service"
             btnClass="show"
         />
         <Destination/>
