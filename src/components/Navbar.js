@@ -3,6 +3,7 @@ import "./NavbarStyles.css";
 import {Link} from "react-router-dom"
 import {MenuItems} from "./MenuItems"
 
+
 class Navbar extends Component{
   state = {clicked: false};
   handleClick = () =>{
@@ -26,7 +27,7 @@ class Navbar extends Component{
                             </li>
                         );
                     })}
-                    <button>Sign Up</button>
+            <Link to="/sign-up"><button>Sign Up</button></Link>
                 </ul>
             </nav>
         )
